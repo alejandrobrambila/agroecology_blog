@@ -2,6 +2,7 @@
 title: "Grazing Study Part 1: Grazing Effects"
 author: "Alejandro Brambila"
 date: "2026-02-25"
+draft: true
 date-modified: last-modified
 html:
   fig-width: "100%"

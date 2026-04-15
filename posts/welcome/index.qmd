@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2026-02-16"
+title: "Welcome to the Agroecology Blog"
+author: "Alejandro Brambila"
+date: "2026-01-15"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post of our agroecology blog, where we'll occasionally be posting project and management updates. Stay tuned!
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+![Planting a native hedgerow with the Appleton and Powisset farm crews in 2024.](IMG_1613.jpeg)
